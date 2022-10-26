@@ -1,6 +1,6 @@
 # Introduction: -
 
-Creating different classification models to predict whether a patient is diabetic or not and finding the accuracy for each of these models to see how the different models compare to one another.
+Creating different classification models to predict whether a female patient is diabetic or not and finding the accuracy for each of these models to see how the different models compare to one another.
 This is a Supervised Machine Learning Problem.
 The different steps involved are  -> 
 
