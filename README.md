@@ -33,4 +33,4 @@ The different steps involved are  ->
 
 ## Link to the datasets used: -
 
-The dataset sonar data.csv used here can be accessed via the link -> https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
+The dataset diabetes.csv used here can be accessed via the link -> https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
